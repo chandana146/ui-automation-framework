@@ -1,0 +1,8 @@
+TestCase,username,password,AccountName,Email,ContactFirstname,ContactLastname,Opportunity_Name,No_of_Seats,Close_date,value,OpportunityNameSearch,CPQdate,CPQSubscription
+TestCase1,mukkapatichandana-stl@team.asana.com,Sowmichandhu@45,tester Chandana,testerc@gmail.com,tester,Chandana,Test2,5,11/17/2023,Test2,Test2,11/17/2023,6
+TestCase2,mukkapatichandana-stl@team.asana.com,Sowmichandhu@45,tester Chandana,testerc@gmail.com,tester,Chandana,Test3,5,11/18/2023,Test3,Test3,11/18/2023,12
+TestCase3,mukkapatichandana-stl@team.asana.com,Sowmichandhu@45,tester Chandana,testerc@gmail.com,tester,Chandana,Test4,5,11/19/2023,Test4,Test4,11/19/2023,18
+TestCase4,mukkapatichandana-stl@team.asana.com,Sowmichandhu@45,tester Chandana,testerc@gmail.com,tester,Chandana,Test5,5,11/20/2023,Test5,Test5,11/20/2023,24
+TestCase5,mukkapatichandana-stl@team.asana.com,Sowmichandhu@45,tester Chandana,testerc@gmail.com,tester,Chandana,Test6,5,11/21/2023,Test6,Test6,11/21/2023,6
+TestCase6,mukkapatichandana-stl@team.asana.com,Sowmichandhu@45,tester Chandana,testerc@gmail.com,tester,Chandana,Test7,5,11/22/2023,Test7,Test7,11/22/2023,12
+TestCase7,mukkapatichandana-stl@team.asana.com,Sowmichandhu@45,tester Chandana,testerc@gmail.com,tester,Chandana,Test8,5,11/23/2023,Test8,Test8,11/23/2023,18
